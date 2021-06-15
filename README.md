@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </p>
 
+
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyang&&show_icons=true&theme=cobalt)]
+  </p>
 <!--
 **taeyang121096/taeyang121096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
