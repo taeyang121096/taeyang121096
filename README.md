@@ -1,5 +1,4 @@
-### Taeyang 👋                                                                                   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeyang121096%2Fhit-counter&count_bg=%23D384B0&title_bg=%23AC1F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### Taeyang 👋                                                                                 
 
 
 
