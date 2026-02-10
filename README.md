@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-000000?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/githubactions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>  
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -38,9 +38,6 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=taeyang121096&&show_icons=true&theme=cobalt"/>
-  </p>
 <!--
 **taeyang121096/taeyang121096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
